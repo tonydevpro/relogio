@@ -35,8 +35,8 @@ Este é um projeto simples de Relógio Digital desenvolvido com **React**. Ele e
 
 ## 💎 Autor
 
-Criado por **TonyDevPro**.
 
+Criado por [tonydevpro](https://github.com/tonydevpro).
 ---
 
 © 2025 - Projeto Open Source
