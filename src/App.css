@@ -1,0 +1,48 @@
+body {    
+    display: flex;
+    justify-content: center;
+   /* align-items: center;*/
+    height: 100vh;
+    margin: 0;
+    background: radial-gradient(circle, #1e1e2f, #0d0d1a);    
+}
+.geral{
+    height: 100%;
+}
+.clock-outline {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgb(129 129 129 / 50%), inset 0 0 20px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(0, 0, 0, 0.5);
+    background: radial-gradient(circle, #2c2c38 60%, transparent 100%);
+    display: flex;
+}
+.clock-outline:hover {
+    transform: scale(1.1);
+    animation: rotateClock 3s linear infinite;
+}
+.imagem{
+    height: 25%;
+    text-align: center;
+}
+.imagem img{
+    height:100%;
+}
+.App{
+    width: 100%;
+    justify-items: center;
+    align-content: center;
+}
+h2{
+    font-size: 200%;
+}
+.data{
+    width: min-content;
+    justify-self: center;   
+}
+p{
+    background-color: rgba(255, 255, 255, 0.40);
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+    padding: 10px;
+    border-radius: 10px;   
+}
