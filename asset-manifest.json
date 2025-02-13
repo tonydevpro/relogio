@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/relogio/static/css/main.e40d1e7d.css",
+    "main.js": "/relogio/static/js/main.5759d465.js",
+    "index.html": "/relogio/index.html",
+    "main.e40d1e7d.css.map": "/relogio/static/css/main.e40d1e7d.css.map",
+    "main.5759d465.js.map": "/relogio/static/js/main.5759d465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40d1e7d.css",
+    "static/js/main.5759d465.js"
+  ]
+}
